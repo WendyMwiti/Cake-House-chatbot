@@ -9,7 +9,7 @@ Provides a phone number for customers to place orders.
 ## Usage
 To use the chatbot, customers can interact with it through a demo website. They can ask any question related to cake orders and deliveries, and the chatbot will respond instantly.
 ## Deployment
-The chatbot is currently deployed on a demo website https://web.powerva.microsoft.com/environments/Default-84d8f35d-d81c-4e5f-9efe-b74ddff4f3f5/bots/cr434_wendysCakeHouse/canvas?__version__=2 and can be used by typing a question on the website.
+The chatbot is currently deployed on a [demo website](https://web.powerva.microsoft.com/environments/Default-84d8f35d-d81c-4e5f-9efe-b74ddff4f3f5/bots/cr434_wendysCakeHouse/canvas?__version__=2) and can be used by typing a question on the website.
 ## Contributors
 This chatbot was created by a Microsoft Power Virtual Agent developer for Wendy's Cake House in Kenya.
 ## Future Improvements
